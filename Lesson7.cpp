@@ -13,4 +13,6 @@ int main()
 
     b.showInfo();
     cout << "Total salary: " << b.calcSalary() << endl;
+
+
 }
