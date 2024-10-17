@@ -39,7 +39,9 @@ float Teacher::calcSalary() const
 
 void Teacher::showInfo() const
 {
-    Employee::showInfo();
+    cout << "________________________\n";
+    cout << "Name: " << name << endl;
+    cout << "Salary: " << salary << endl;
     cout << "Cost: " << cost << endl;
     cout << "Hours: " << hours << endl;
 }
