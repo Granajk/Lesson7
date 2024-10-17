@@ -43,5 +43,4 @@ void Manager::showInfo() const
     Employee::showInfo();
     cout << "Percent: " << percent << endl;
     cout << "Sales: " << sales << endl;
-
 }
