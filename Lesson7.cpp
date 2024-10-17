@@ -2,7 +2,7 @@
 
 int main()
 {
-    Employee a("Rodin", 20000.9f);
+    Employee a("Rodion", 20000.9f);
 
     a.showInfo();
 
